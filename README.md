@@ -56,8 +56,8 @@ README.md
 1. Clone the repository:
 
    ```bash
-   git clone <your-repo-url>
-   cd code-challenge
+   git clone <https://github.com/Kabogo-Maverick/codechallenge.git>
+   cd codechallenge
 
 
 ## Create Virtual Environment
